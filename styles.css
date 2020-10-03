@@ -1,0 +1,87 @@
+body{
+  font-family: 'Rubik', sans-serif;
+}
+
+table {
+  width: 100%;
+
+}
+
+th {
+
+  color: black;
+  font-weight: bold;
+}
+td, th {
+  padding: 6px;
+  text-align: center;
+}
+.table_one{
+  padding-right: 50px;
+  text-align: center;
+}
+.header_one
+{
+  position: relative;
+  display: inline-block;
+  bottom: 60px;
+  left:30px;
+  width:50%;
+  margin: 0;
+
+}
+.header_two{
+  display: inline-block;
+  position: relative;
+  width: 49%;
+  text-align: right;
+  font-size: 13px;
+  right: 10px;
+  font-weight: lighter;
+  margin:0;
+}
+.header{
+  background-color:purple;
+  color: white;
+}
+.itemtable
+{
+  text-align: center;
+  width: 100%;
+  height:100%;
+  padding-bottom: 30px;
+}
+.index_one{
+  position: relative;
+  display: inline-block;
+  font-size: 12px;
+  width:50%;
+}
+.index_second{
+  display: inline-block;
+  position: relative;
+  width:49%;
+  font-size: 12px;
+  left:auto;
+  text-align: right;
+}
+.total{
+position:relative;
+display: inline-block;
+background-color:#9ab3f5;
+text-align: left;
+width: 50%;
+margin:0;
+
+}
+.total_one{
+  display: inline-block;
+ background-color: purple;
+ text-align: right;
+ width: 49%;
+ color: white;
+ margin:0;
+}
+.amount{
+  padding: 5px;
+}
